@@ -6,4 +6,8 @@ Practicing with Git!
 
 You got this!
 
-Will this change be pushed?g
+Will this change be pushed?
+
+## Local Development
+
+1. Open index.html in your browser.
